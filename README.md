@@ -12,6 +12,7 @@ Currently Creative Chef at Wink Eventos and developing digital solutions for the
 - **MonsterChef:** A personal knowledge base for culinary workflows and AI-driven recipes.
 - **Blue Moon Hopetown:** Vacation home platform (Next.js + Tailwind).
 - **Lleras Medical / Spa Lleras:** Performance marketing and static site architecture.
+- **Culinary Schema Generator:** [Ver repositorio →](https://github.com/Monsterchef-git/culinary-schema-generator)
 
 ## 📊 Stats
 
