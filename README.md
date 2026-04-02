@@ -14,6 +14,11 @@ Currently Creative Chef at Wink Eventos and developing digital solutions for the
 - **Lleras Medical / Spa Lleras:** Performance marketing and static site architecture.
 
 ## 📊 Stats
-## 📊 Stats
-![Stats de John](https://github-readme-stats.vercel.app/api?username=Monsterchef-git&show_icons=true&theme=dark&icon_color=cafd00&text_color=ffffff&bg_color=000000&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsterchef-git&layout=compact&theme=dark&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=5)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monsterchef-git&show_icons=true&theme=dark&icon_color=cafd00&text_color=ffffff&bg_color=000000&hide_border=true" alt="Stats de John" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsterchef-git&layout=compact&theme=dark&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=5" alt="Top Langs" />
+</p>
