@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍🍳 John Herrera: Engineering Gastronomy
 
-<!--
-**Monsterchef-git/Monsterchef-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between culinary precision and digital architecture. 
+Currently Creative Chef at Wink Eventos and developing digital solutions for the hospitality industry.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack (The Mise en Place)
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript.
+- **Tools:** VS Code, Git, Netlify, Vercel.
+- **Data:** JSON-LD for Gastronomy, SEO, Google Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Active Projects
+- **MonsterChef:** A personal knowledge base for culinary workflows and AI-driven recipes.
+- **Blue Moon Hopetown:** Vacation home platform (Next.js + Tailwind).
+- **Lleras Medical / Spa Lleras:** Performance marketing and static site architecture.
+
+## 📊 Stats
+## 📊 Stats
+![Stats de John](https://github-readme-stats.vercel.app/api?username=Monsterchef-git&show_icons=true&theme=dark&icon_color=cafd00&text_color=ffffff&bg_color=000000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsterchef-git&layout=compact&theme=dark&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=5)
